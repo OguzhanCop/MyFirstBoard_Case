@@ -5,7 +5,7 @@ using UnityEngine;
 public class Painting : MonoBehaviour
 {
     public LineRenderer pencilLine;
-    public GameObject brush;
+    
     public GameObject pencil;
     
     Vector3 lastPos;

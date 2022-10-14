@@ -64,7 +64,7 @@ public class UIManager : MonoBehaviour
         triangleImage.SetActive(false);
         starImage.SetActive(false);
         informationPopup.text = "I am a green circle";
-        informationPopup2.text = "I not have  sides";
+        informationPopup2.text = "I haven't  sides";
     }
     public void StarButton()
     {
